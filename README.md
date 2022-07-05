@@ -1,7 +1,9 @@
 Getting Started
 
-#Clone this repo
+--Clone this repo
 
-#Run npm install
+#Run 
+npm install
 
-#Run npm start
+#Then run 
+npm start
